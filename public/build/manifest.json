@@ -13,7 +13,7 @@
     ]
   },
   "resources/js/app.jsx": {
-    "file": "assets/app-zf8sdRU3.js",
+    "file": "assets/app-s4BIrpvX.js",
     "name": "app",
     "src": "resources/js/app.jsx",
     "isEntry": true,
@@ -24,7 +24,7 @@
       "resources/js/Pages/Home.jsx"
     ],
     "css": [
-      "assets/app-BytVPl5I.css"
+      "assets/app-0tGkZlBT.css"
     ]
   }
 }

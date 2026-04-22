@@ -1,3 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary-50: #edf4f8;
+    --color-primary-200: #b9cfde;
+    --color-primary-500: #1a3a52;
+    --color-primary-600: #163147;
+    --color-primary-800: #102434;
+
+    --color-secondary-400: #ff8c61;
+    --color-secondary-500: #ff6b35;
+    --color-secondary-600: #e65a28;
+
+    --color-accent-50: #eef7fc;
+    --color-accent-600: #004e89;
+}
+
 /* ========================================
  * CSS Custom Properties & Theme System
  * ======================================== */

@@ -1,0 +1,30 @@
+{
+  "_jsx-runtime-Doq0HdJ_.js": {
+    "file": "assets/jsx-runtime-Doq0HdJ_.js",
+    "name": "jsx-runtime"
+  },
+  "resources/js/Pages/Home.jsx": {
+    "file": "assets/Home-CCtETkzX.js",
+    "name": "Home",
+    "src": "resources/js/Pages/Home.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jsx-runtime-Doq0HdJ_.js"
+    ]
+  },
+  "resources/js/app.jsx": {
+    "file": "assets/app-zf8sdRU3.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "imports": [
+      "_jsx-runtime-Doq0HdJ_.js"
+    ],
+    "dynamicImports": [
+      "resources/js/Pages/Home.jsx"
+    ],
+    "css": [
+      "assets/app-BytVPl5I.css"
+    ]
+  }
+}
